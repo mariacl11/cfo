@@ -1,0 +1,6 @@
+As_Of_Date,Customer,Invoice_No,Invoice_Date,Due_Date,Outstanding,Status
+2026-09-18,Acme Retail,AR-101,2026-05-01,2026-05-31,180000,Overdue
+2026-09-18,Nova Foods,AR-102,2026-06-10,2026-07-10,250000,Overdue
+2026-09-18,Orbit Labs,AR-103,2026-07-05,2026-08-04,90000,Overdue
+2026-09-18,Zenith Tech,AR-104,2026-08-20,2026-09-19,310000,Current
+2026-09-18,Acme Retail,AR-105,2026-08-25,2026-09-24,220000,Current

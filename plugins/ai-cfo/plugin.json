@@ -1,0 +1,36 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "ai-cfo",
+  "version": "1.0.0",
+  "description": "CFO-grade analysis across accounting, FP&A, cash, business finance, corporate finance, and financial controls.",
+  "author": {
+    "name": "AI CFO Skills contributors"
+  },
+  "license": "MIT",
+  "keywords": [
+    "finance",
+    "accounting",
+    "fp-and-a",
+    "cash-flow",
+    "cfo"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "AI CFO",
+        "shortDescription": "CFO-grade financial analysis and decision support.",
+        "longDescription": "Analyse financial statements, forecasts, cash, working capital, pricing, investments, controls, and board decisions using 35 specialist finance workflows.",
+        "developerName": "AI CFO Skills contributors",
+        "category": "Productivity",
+        "capabilities": [
+          "Read"
+        ],
+        "defaultPrompt": [
+          "Analyse these financial statements and identify the biggest risks.",
+          "Calculate our cash runway and explain the main drivers.",
+          "Prepare a CFO decision memo for this proposal."
+        ]
+      }
+    }
+  }
+}

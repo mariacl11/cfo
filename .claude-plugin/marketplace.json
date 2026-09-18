@@ -1,0 +1,20 @@
+{
+  "name": "ai-cfo-skills",
+  "owner": {
+    "name": "AI CFO Skills contributors"
+  },
+  "description": "CFO-grade finance plugins for Claude Code.",
+  "plugins": [
+    {
+      "name": "ai-cfo",
+      "source": "./plugins/ai-cfo",
+      "displayName": "AI CFO",
+      "description": "CFO-grade financial analysis and decision support using 35 specialist workflows.",
+      "version": "1.0.0",
+      "author": {
+        "name": "AI CFO Skills contributors"
+      },
+      "category": "Finance"
+    }
+  ]
+}

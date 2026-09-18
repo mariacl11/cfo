@@ -1,0 +1,6 @@
+Date,Vendor,Invoice,Amount,Approver,Notes
+2026-09-01,Northstar Supplies,NS-1042,49900,A.Kapoor,Normal office supplies
+2026-09-01,Northstar Supplies,NS-1043,49900,A.Kapoor,Normal office supplies
+2026-09-01,Northstar Supplies,NS-1044,49900,A.Kapoor,Normal office supplies
+2026-09-03,Metro Hosting,MH-8831,120000,R.Singh,Annual hosting renewal
+2026-09-03,Metro Hosting,MH-8831,120000,R.Singh,Duplicate export row; verify before payment

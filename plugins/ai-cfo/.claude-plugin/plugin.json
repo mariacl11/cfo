@@ -1,0 +1,18 @@
+{
+  "name": "ai-cfo",
+  "displayName": "AI CFO",
+  "version": "1.0.0",
+  "description": "CFO-grade analysis across accounting, FP&A, cash, business finance, corporate finance, and financial controls.",
+  "author": {
+    "name": "AI CFO Skills contributors"
+  },
+  "license": "MIT",
+  "keywords": [
+    "finance",
+    "accounting",
+    "fp-and-a",
+    "cash-flow",
+    "cfo"
+  ],
+  "skills": "./skills/"
+}
